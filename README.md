@@ -1,4 +1,4 @@
-# ✨ About me
+# About me
 
 Master's student [@IST](https://tecnico.ulisboa.pt/en/). Executive producer and gameplay programmer [@GameDev Técnico](https://gamedev.tecnico.ulisboa.pt).
 
@@ -6,8 +6,7 @@ My main interests include machine learning, information visualization, game desi
 
 A lot of my projects are here, for posterity.
 
-## 🛠 Technology I Use
-
+## ⚙️ Technology I've Used
 
 Note: The list is always growing, because I'm always learning. If I'm unfamiliar with a new technology I need, I look it up!
 
@@ -42,7 +41,7 @@ Note: The list is always growing, because I'm always learning. If I'm unfamiliar
 </details>
 
 
-## Projects
+## 💡 Projects
 
 <a name="domains"></a>
 #### Domains
