@@ -1,4 +1,6 @@
-# About me <img align="right" src="https://github.com/AlexP-Coding/AlexP-Coding/dnaCredited.gif" width="300" height="300"/>
+# About me 
+
+<img align="right" src="https://github.com/AlexP-Coding/AlexP-Coding/blob/main/dnaCredited.gif" width="200" style="vertical-align:middle;margin:0px 50px"/>
 
 Master's student [@IST](https://tecnico.ulisboa.pt/en/). Executive producer and gameplay programmer [@GameDev Técnico](https://gamedev.tecnico.ulisboa.pt).
 
@@ -10,10 +12,10 @@ A lot of my projects are here, for posterity.
 
 Note: The list is always growing, because I'm always learning. If I'm unfamiliar with a new technology I need - well, that's what research is for!
 
-### Implementation
-
 <details>
-<summary> Technology used for implementation </summary>
+<summary> Technology for implementation </summary>
+
+### Technology for Implementation
 
 |Domain|Tech|
 |--|--|
@@ -26,11 +28,11 @@ Note: The list is always growing, because I'm always learning. If I'm unfamiliar
 
 </details>
 
-### Misc.
-
 <details>
-<summary> Other technology used </summary>
-  
+<summary> Other technology </summary>
+
+### Other Technology  
+
 |Domain|Tech|
 |--|--|
 | Source control | ![GitHub](https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=github&logoColor=FFFFFF&label=) ![GitLab](https://img.shields.io/static/v1?style=flat-square&message=GitLab&color=000000&logo=gitlab&logoColor=&label=) |
