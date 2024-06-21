@@ -1,4 +1,4 @@
-# About me
+# About me <img align="right" src="https://github.com/AlexP-Coding/AlexP-Coding/dnaCredited.gif" width="300" height="300"/>
 
 Master's student [@IST](https://tecnico.ulisboa.pt/en/). Executive producer and gameplay programmer [@GameDev Técnico](https://gamedev.tecnico.ulisboa.pt).
 
@@ -8,12 +8,12 @@ A lot of my projects are here, for posterity.
 
 ## ⚙️ Technology I've Used
 
-Note: The list is always growing, because I'm always learning. If I'm unfamiliar with a new technology I need, I look it up!
+Note: The list is always growing, because I'm always learning. If I'm unfamiliar with a new technology I need - well, that's what research is for!
 
 ### Implementation
 
 <details>
-<summary> Technology used for: implementation </summary>
+<summary> Technology used for implementation </summary>
 
 |Domain|Tech|
 |--|--|
@@ -29,7 +29,7 @@ Note: The list is always growing, because I'm always learning. If I'm unfamiliar
 ### Misc.
 
 <details>
-<summary> Technology used for: miscellaneous </summary>
+<summary> Other technology used </summary>
   
 |Domain|Tech|
 |--|--|
@@ -50,6 +50,10 @@ Note: The list is always growing, because I'm always learning. If I'm unfamiliar
 3. [User-Centered Design](#design)
 4. [Software and Network Security](#security)
 5. [Software Development (Misc.)](#misc)
+
+
+<details>
+<summary> Details (Work in Progress!) </summary>
 
 <a name="data-analysis"></a>
 ### 1. [Domain: Data Analysis](#domains)
@@ -85,3 +89,5 @@ Note: The list is always growing, because I'm always learning. If I'm unfamiliar
 |Project|Technology|Summary|
 |-------|----------|-------|
 ||||
+
+</details>
