@@ -1,6 +1,6 @@
 # About me 
 
-<img align="right" src="https://github.com/AlexP-Coding/AlexP-Coding/blob/main/dnaCredited.gif" width="200" style="vertical-align:middle;margin:0px 50px"/>
+<img align="right" src="https://github.com/AlexP-Coding/AlexP-Coding/blob/main/dnaCredited.gif" width="150" style="vertical-align:middle;margin:0px 50px"/>
 
 Master's student [@IST](https://tecnico.ulisboa.pt/en/). Executive producer and gameplay programmer [@GameDev Técnico](https://gamedev.tecnico.ulisboa.pt).
 
