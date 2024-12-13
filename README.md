@@ -83,13 +83,16 @@ Note: The list is always growing, because I'm always learning. If I'm unfamiliar
 
 |Project|Technology|Summary|
 |-------|----------|-------|
-||||
+|[Musical Security](https://github.com/AlexP-Coding/MusicalSecurity)|java, mysql, javascript, express |Defined a secure network environment for an online music-related shop. Includes both risk management and risk preventative measures. |
+|[Vulnerability Exploitation](https://gitlab.rnl.tecnico.ulisboa.pt/ssof2223/writeups/ist197375)|python, zap|Used python requests module to exploit code vulnerabilities in a "capture the flag" setting. Exercise used to understand how to avoid those vulnerabilities while coding. |
+
 
 <a name="misc"></a>
 ### 5. [Domain: Software Development (Misc.)](#domains)
 
 |Project|Technology|Summary|
 |-------|----------|-------|
-||||
+|[Quizzes Tutor](https://github.com/AlexP-Coding/QuizzesTutorFeatures)|java, node.js, vue.js|Implemented new features to a quiz application using Agile methodology. Included implementation and testing of domain-base code, service logic, and frontend functionality. |
+|[Class Manager](https://github.com/AlexP-Coding/ClassManager)|java, maven, grpc, python|Created a fault-tolerant and coherent class management system using gRPC and gossip communication protocols. Included admin, teacher, and student profiles.  |
 
 </details>
