@@ -76,7 +76,7 @@ Note: The list is always growing, because I'm always learning. If I'm unfamiliar
 
 </details>
 
-### Misc. Technology  
+### Miscellaneous tools
 
 <details open="true"> <summary></summary>
 
@@ -103,12 +103,12 @@ Note: The list is always growing, because I'm always learning. If I'm unfamiliar
 <tr>
   <td>Team brainstorming</td>
   <td>
-    <img src="https://img.shields.io/static/v1?style=flat-square&message=Miró&color=050038&logo=miro&logoColor=ffffff&label=" alt="Miro"> 
+    <img src="https://img.shields.io/static/v1?style=flat-square&message=Mir%C3%B3&color=050038&logo=miro&logoColor=ffffff&label=" alt="Miro"> 
     <img src="https://img.shields.io/static/v1?style=flat-square&message=Milanote&color=31303A&logo=milanote&logoColor=ffffff&label=" alt="Milanote"> 
   </td>
 </tr>
 <tr>
-  <td>Application Design (backend, frontend)</td>
+  <td>Application design (backend, frontend)</td>
   <td>
     <img src="https://img.shields.io/static/v1?style=flat-square&message=Diagrams.net&color=F08705&logo=diagramsdotnet&logoColor=ffffff&label=" alt="Diagrams.net"> 
     <img src="https://img.shields.io/static/v1?style=flat-square&message=Camunda&color=FC5D0D&logo=camunda&logoColor=ffffff&label=" alt="Camunda"> 
